@@ -18,11 +18,9 @@ The `Main` class is the entry point of the program. It creates a new `Battleship
 
 ## How to Run the Code
 
-1. Open your Java development environment (e.g., VSCode).
-2. Create a new Java project.
-3. Copy the provided code into separate files for each class: `Battleship.java`, `GameHelper.java`, `BattleshipGame.java`, and `Main.java`.
-4. Compile the code if required by your environment.
-5. Run the `Main` class to start the Battleship game.
+1. Open your IntelliJ or VSCode.
+2. Clone repo. 
+5. Run the `Main` class to start the game.
 
 Follow the prompts in the console to input your guesses and play the game. The game will display the game board, provide feedback on your guesses, and inform you when you win or run out of guesses.
 
